@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="nNRZyLoKgAF71BKK4Ofq">
+    <mxGraphModel dx="1143" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-5" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nCZCAyvqmIcJTt1TYcqe-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="310" />
+              <mxPoint x="120" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="WEB player" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-8" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=-0.012;entryDx=0;entryDy=0;" target="nCZCAyvqmIcJTt1TYcqe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Apps móviles&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=-0.061;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="616.7" y="190" />
+            </Array>
+            <mxPoint x="623.2699999999998" y="190" as="sourcePoint" />
+            <mxPoint x="616.7281105169345" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;App de escritorio&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-11" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nCZCAyvqmIcJTt1TYcqe-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;CDN y balanceador de carga&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="610" x="60" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-13" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nCZCAyvqmIcJTt1TYcqe-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Web API y GraphQL&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-15" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nCZCAyvqmIcJTt1TYcqe-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-17" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nCZCAyvqmIcJTt1TYcqe-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Microservicios (Java)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="30" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-19" edge="1" parent="1" source="nCZCAyvqmIcJTt1TYcqe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nCZCAyvqmIcJTt1TYcqe-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Pub/Sub&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Bases de datos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Pipelines de datos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="nCZCAyvqmIcJTt1TYcqe-21" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="google cloud y kubernetes" vertex="1">
+          <mxGeometry height="100" width="80" x="250" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
